@@ -25,6 +25,8 @@ namespace Exam02
                 Sub1.ShowExamResults();
 
                 Console.WriteLine($"The Elapsed Time = {sw.Elapsed}");
+
+                Console.WriteLine("this is my Code ");
             }
 
 
